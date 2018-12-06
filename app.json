@@ -16,7 +16,7 @@
        "value": "64"
      }
   },
-  "website": "https://github.com/wangyi2005/v2ray-heroku",
-  "repository": "https://github.com/wangyi2005/v2ray-heroku",
+  "website": "https://github.com/haoyang624/v2ray-heroku",
+  "repository": "https://github.com/haoyang624/v2ray-heroku",
   "stack": "container"
  }
